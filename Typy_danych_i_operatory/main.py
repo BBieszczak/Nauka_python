@@ -1,0 +1,2 @@
+import Zadania
+Zadania.powitanie()

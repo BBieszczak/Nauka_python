@@ -1,0 +1,20 @@
+[
+    {
+        "imie": "Adam",
+        "nazwisko": "Nowak",
+        "stanowisko": "Kucharz",
+        "pensja": 8320.23
+    },
+    {
+        "imie": "Konrad",
+        "nazwisko": "Nowak",
+        "stanowisko": "Piłkarz",
+        "pensja": 83200.5
+    },
+    {
+        "imie": "Adam",
+        "nazwisko": "Myszka",
+        "stanowisko": "Kucharz",
+        "pensja": 3500.0
+    }
+]
